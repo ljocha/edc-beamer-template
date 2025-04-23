@@ -9,4 +9,4 @@ Dedicated to those who feel as happy using Powerpoint as I do ...
 4. edit `example.tex` and run `xelatex example`
 5. enjoy
 
-Currently, use on https://overleaf.com is not supported due the use of non-standard fonts. Comment out the font commands https://github.com/ljocha/edc-beamer-template/blob/680e8a23e13326e760f5ebb7a4991a71cd3aa62e/beamerthemeedc.sty#L19:L25 if you insist.
+Currently, use on https://overleaf.com is not supported due the use of non-standard fonts. Comment out the [font commands](https://github.com/ljocha/edc-beamer-template/blob/680e8a23e13326e760f5ebb7a4991a71cd3aa62e/beamerthemeedc.sty#L19:L25) if you insist.
