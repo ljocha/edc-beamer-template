@@ -1,0 +1,38 @@
+% vim: syn=tex:
+\documentclass[aspectratio=169,smaller,t]{beamer}
+\usetheme{edc}
+% \usepackage[utf8]{inputenc}
+
+\usepackage{lipsum}
+\begin{document}
+
+\title[Example presentation]{This is an example presentation with long title}
+\subtitle{Blahblah subtitle}
+\author{The Author}
+\date{Save the world, May, 3210}
+%\date[20. 9. 2016]{20. 9. 2016 \vbox to 0pt{\vskip 2mm \leavevmode\kern-8mm\includegraphics[width=0.6\textwidth]{Logolink_OP_VVV_hor_barva_cz.jpg}\raise 2.8mm\hbox{\includegraphics[width=0.2\textwidth]{cesnet-logo.pdf}}}\vss}
+
+\begin{frame}[plain]
+  \maketitle
+\end{frame}
+
+\begin{frame}
+{Sample slide}
+
+This is text
+\begin{itemize}
+\item first item
+\item another item
+\end{itemize}
+\alert{Alerted text}
+\end{frame}
+
+\begin{frame}
+{Another slide}
+\lipsum[1]
+\end{frame}
+
+\begin{lastframe}
+% last frame, leave emtpy
+\end{lastframe}
+\end{document}
