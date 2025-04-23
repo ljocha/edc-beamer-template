@@ -1,6 +1,8 @@
 # EOSC Data Commons project presentation template for LaTex+Beamer
 
-Dedicated to those who feel as happy using Powerpoint as I do ...
+Dedicated to those who feel as happy using Powerpoint, Google Slides, ... as I do.
+
+Follows the [project template](https://docs.google.com/presentation/d/1Jx3QH9X7BOhVWTPOUT0-ECGOqkxxzwo3I6P1g4V8dmk/edit?usp=sharing) closely.
 
 ### Quickstart
 1. install Texlive + xelatex
